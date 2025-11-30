@@ -1,0 +1,4 @@
+employee_id,name,annual_leave_total,annual_leave_used,sick_leave_total,sick_leave_used,casual_leave_total,casual_leave_used,total_working_days,days_present
+101,Alice,24,20,12,5,6,2,22,20
+102,Bob,24,5,12,2,6,1,22,22
+103,Charlie,24,12,12,8,6,3,22,18
